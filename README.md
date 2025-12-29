@@ -23,5 +23,6 @@ Data Visualization
 ### Data Source
 Readme
 Hr Analytics data.Xlsx
-HR Dashboard .PBIX
+HR Dashboard .Pbix
 
+https://github.com/mohdkhalid575/HR-Analytics-project-using-Power-BI/blob/main/HR%20Analytics%20Dashboard.png
