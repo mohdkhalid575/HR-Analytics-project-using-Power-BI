@@ -13,7 +13,6 @@ Attrition by Gender
 Attrition by Years at Company
 
 ### Tools Used
-
 Power BI Desktop
 Microsoft Excel (Dataset)
 Data Cleaning & Transformation
